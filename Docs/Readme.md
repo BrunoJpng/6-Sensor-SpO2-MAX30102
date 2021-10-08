@@ -1,1 +1,1 @@
-Documentações e Datasheets referentes ao projeto a ser desenvolvido, ao SpO2 MAX30102 e ao Arduino UNO.
+Documentações e Datasheets referentes ao projeto desenvolvido, do ATMEGA 328P, e ao sensor oxímetro MAX30102.
